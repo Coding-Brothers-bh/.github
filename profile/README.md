@@ -1,4 +1,5 @@
-# 👨‍💻 Coding Brothers
+#<img width="691" height="595" alt="CB" src="https://github.com/user-attachments/assets/b1a863c7-8445-44da-98a6-452056b71de4" />
+ 👨‍💻 Coding Brothers
 
 Welcome to **Coding Brothers** — a community-driven organization where developers collaborate to learn, build, and grow together. 🚀  
 
